@@ -1,3 +1,4 @@
+//fcfs
 #include<stdio.h>
 int main(){
     int at[5]={0,0,0,0,0};
